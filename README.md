@@ -2,6 +2,8 @@
 
 This program illustrates IntStack exception handling.
 
+Output:
+
 ![p](https://github.com/bell-kevin/IntStackExceptionHandling/blob/main/output.PNG)
 
 == We're Using GitHub Under Protest ==
